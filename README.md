@@ -1,8 +1,8 @@
-# VJ CHANNEL AUTO FORWARD BOT
+# Heroku CHANNEL AUTO FORWARD BOT
 A Simple telegram bot written in python to forward your files from one channel to other channel when a new post is available. What you need to do is just deploy this code. 
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/VJBots/VJ-AUTO-FORWARD-BOT/tree/main)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/VJ_Botz)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Rockybhaiji07/HerokuForwardbot/tree/main)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/OwnerRocky)
 
 ### Deploy To Render 
 
@@ -40,7 +40,7 @@ You can deploy this code any where you want but we provided heroku and railway d
 
 - Select one of the methods
 
-     - [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot)
+     - [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/Rockybhaiji07/HerokuForwardbot))
 
     -  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
 
@@ -80,7 +80,7 @@ about - to know about me
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/VJBots/VJ-Auto-Forward-Bot/blob/main/LICENSE)
 
 ## Status
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/VJBots/VJ-Auto-Forward-Bot/tree/main)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]((https://github.com/Rockybhaiji07/HerokuForwardb/tree/main)
 ![Forks](https://img.shields.io/github/forks/VJBots/VJ-Auto-Forward-Bot)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=VJBots&theme=blue-green)
 [![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=VJBots&theme=blue-green)](https://github.com/VJBots/github-readme-stats)
@@ -88,6 +88,6 @@ about - to know about me
 
 ## Thanks and credits
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-- [Tech VJ](https://telegram.dog/VJ_Botz) - Solved Error In Repo ❤
-- [Tech VJ](https://youtube.com/@Tech_VJ) - Make Repo Deployable On Web Platform ❤
+- [herokuTech](https://telegram.dog/OwnerRocky) - Solved Error In Repo ❤
+- [HerokuTech](https://youtube.com/@herokuTech) - Make Repo Deployable On Web Platform ❤
 - Thanks To All Who Help In This Journey ♥️
