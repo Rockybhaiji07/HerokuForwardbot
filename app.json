@@ -7,8 +7,8 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/VJ_Botz",
-    "repository": "https://github.com/VJBots/VJ-Auto-Forward-Bot",
+    "success_url": "https://telegram.dog/herokutech",
+    "repository": "https://github.com/Rockybhaiji07/HerokuForwardbot",
     "env": {
         "AS_COPY": {
             "description": "set this to true to forward message as copy",
